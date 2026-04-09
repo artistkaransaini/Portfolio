@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#05000E;
+}
+
+
+#navbar{
+    font-size:25px;
+    font-family:inter;
+    font-weight:500;
+    color:#B9B9B9;
+    width:750px;
+    height: 45px;
+    border-radius: 25px;
+    background-color:#363E4D;
+    border:solid 3px #4C5483;
+    margin:25px auto;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+#hero_section{
+    width:85vw;
+    border:solid 3px #4C5483;
+    border-radius:25px;
+    margin:40px auto;
+    
+}
+
+
+
+   
+
