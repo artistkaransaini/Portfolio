@@ -30,7 +30,10 @@ body{
     border:solid 3px #4C5483;
     border-radius:25px;
     margin:40px auto;
-    
+}
+
+p{
+    color: red;
 }
 
 
